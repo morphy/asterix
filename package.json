@@ -1,0 +1,11 @@
+{
+  "name": "asterix",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "md-to-pdf dokument.md"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4",
+    "prettier": "^3.5.0"
+  }
+}
